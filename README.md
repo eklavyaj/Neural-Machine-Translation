@@ -1,4 +1,4 @@
-# Neural-Machine-Translation
+# Neural Machine Translation
 
 - Built a standard sequence to sequence machine translation model to translate french phrases to english.
 - Used an encoder-decoder architecture to capture the embeddings and perform decoding. 
