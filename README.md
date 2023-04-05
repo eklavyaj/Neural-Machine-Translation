@@ -5,4 +5,4 @@
 - Evaluated the model using the Bleu Score calculated from unigrams and bigrams. 
 - Achieved a good baseline of bleu score = 14.65. 
 - Added attention to the model to better summarize the global context and make sound context-aware translations. 
-- Achieved an improved bleu score of ~ 20. 
+- Achieved an improved bleu score > 60. 
